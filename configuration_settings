@@ -1,0 +1,6 @@
+#Parameters 	                             #Value	                                        #Description
+friendLinks	                               Path to the file	                             Contains the path to the file which contains the friend links extracted from the seed profiles.
+outputFile	                               Path to the file	                             Contains the path to the file where the extracted data is to be stored.
+totalPost       	                         Numeric	                                     Specifies the number of posts to be extracted from each user profile.
+reextractLinksFile	                       Path to the file	                             Contains the path to the file which contains the friend links for which data is to be re-extracted.
+seedProfile	                               Numeric	                                     Value that represents the specific seed account to be used to extract the data.
