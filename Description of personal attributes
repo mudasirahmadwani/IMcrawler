@@ -1,0 +1,17 @@
+ #Description of personal attributes considered in the dataset#
+Index	              Personal                      Attribute	              Value
+0	                  Gender	                      Male, Female, NR (Not Revealed)
+1	                  Friend Count	                0,1
+2	                  Relationship Status	          0,1
+3	                  Family Members	              0,1
+4	                  Interested In                	0,1
+5                 	Languages	                    0,1
+6	                  Hometown	                    0,1
+7	                  Birthday	                    0,1
+8	                  Phone No.	                    0,1
+9	                  Address	                      0,1
+10	                Email Id	                    0,1
+12	                Political Views	              0,1
+12	                Religious Views	              0,1
+13	                Social links	                0,1
+14	                Website Address	              0,1
