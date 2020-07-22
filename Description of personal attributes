@@ -1,4 +1,4 @@
- #Description of personal attributes considered in the dataset#
+ #Description of personal attributes considered in the dataset##
 Index	              Personal                      Attribute	              Value
 0	                  Gender	                      Male, Female, NR (Not Revealed)
 1	                  Friend Count	                0,1
